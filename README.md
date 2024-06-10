@@ -16,7 +16,7 @@ Frontend for this assignment was created with Vite+React JS
 - Create a `.env` file in the root directory of the project.
 - Create a environment variable named `VITE_SERVER_NAME` and add the backend server name as a string. e.g. `"http://localhost:5000/"`
 - Run `npm run dev` and the project will run in development mode.
-- Go to `` here to see the production build.
+- Go to `https://job-management-beryl.vercel.app/` here to see the production build.
 
 ### Features
 
@@ -81,4 +81,4 @@ We have Created a custom error and edge case handling method for our editing and
 ### Production
 
 This project is hosted on vercel, so that you can test it out at ease. Simply click on the link below, and head on out.
-``
+`https://job-management-beryl.vercel.app/`
